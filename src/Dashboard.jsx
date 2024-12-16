@@ -45,6 +45,7 @@ function Dashboard() {
     { image: 'chrome 6.jpg', title: 'Chrome Hearts Cargo Shorts', description: 'Stay cool and versatile with Chrome Hearts cargo shorts.' },
     { image: 'chrome 7.jpg', title: 'Chrome Hearts Skinny Jeans', description: 'Flaunt your edgy style with these sleek Chrome Hearts skinny jeans.' },
     { image: 'chrome 8.jpg', title: 'Chrome Hearts Casual Shorts', description: 'Perfect for laid-back days, these Chrome Hearts casual shorts blend comfort and style.' },
+    { image: 'chrome 9.jpg', title: 'Chrome Hearts Snapback Cap', description: 'Top off your outfit with the stylish Chrome Hearts snapback cap.' }
 ];
 
 
